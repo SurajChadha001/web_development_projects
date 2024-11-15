@@ -1,0 +1,84 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+
+
+.music {
+  margin-top: 180px;
+}
+
+.picture {
+  margin-top: 150px;
+  height: 90vh;
+}
+
+.header {
+  margin-left: 120px;
+}
+
+.lining {
+  padding-left: 14px;
+  padding-right: 12px;
+
+}
+
+.bgImage{
+  
+  background-image: url(bg.webp);
+  background-attachment: fixed;
+  min-height: 100vh;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+
+}
+
+.icon-container{
+  position: relative;
+  width: 200px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+.circle{
+  width: 80px;
+  height: 80px;
+  background-color: #f03a65;
+  border-radius: 50%;
+  position: relative;
+}
+.brain-icon{
+  position: relative;
+  left: 40px;
+  top: 20px;
+  width: 50px;
+  height: 50px;
+
+}
+.brain-icon img{
+  width: 100%;
+  height: auto;
+}
+
+.image img{
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.image1 img{
+ 
+  border-radius: 50%
+}
+@media screen and (min-width:0px) and (max-width:1000px){
+  .footer1{
+    flex-direction: column;
+  }
+  
+}
