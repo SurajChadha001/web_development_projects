@@ -1,0 +1,70 @@
+.flexboxNew1 {
+    
+    width: 30%;
+    border: 2px solid blue;
+    margin-top: 60px;
+    margin: auto;
+    height: 50%;
+
+}
+
+.img03 {
+    height: 200px;
+    border: 2px solid rgb(251, 15, 15);
+
+   width: 80%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    
+
+
+}
+.image100{
+  height: 100px;
+  width: 30%;
+  border: 2px solid black;
+  
+}
+.image101{
+    height: 100px;
+    border: 2px solid darkblue;
+    width: 50%;
+}
+.image100 img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    border: 2px solid violet;
+
+}
+
+.image101 p {
+    font-size: 10px;
+    border: 2px solid blue;
+   
+  
+    line-height: 1.2;
+   
+    font-weight: bold;
+}
+
+.img03 p span {
+    color: #0073e6;
+    font-size: 9PX;
+}
+
+.txt05 {
+    width: 80%;
+    border: 2px solid violet;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+.txt05 span {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}

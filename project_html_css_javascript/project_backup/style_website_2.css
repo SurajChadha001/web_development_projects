@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.flex{
+    height: 80vh;
+    width: 50%;
+    border: 2px solid black;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.flex1{
+    height: 50vh;
+    border: 2px solid black;
+    width: 90%;
+}
